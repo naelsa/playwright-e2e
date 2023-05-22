@@ -1,0 +1,21 @@
+{
+  "name": "playwright-e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naelsa/playwright-e2e.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naelsa/playwright-e2e/issues"
+  },
+  "homepage": "https://github.com/naelsa/playwright-e2e#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.33.0"
+  }
+}
